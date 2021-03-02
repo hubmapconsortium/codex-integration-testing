@@ -1,0 +1,6 @@
+[submodule "sprm"]
+	path = sprm
+	url = https://github.com/hubmapconsortium/sprm
+[submodule "create-vis-symlink-archive"]
+	path = create-vis-symlink-archive
+	url = https://github.com/hubmapconsortium/create-vis-symlink-archive
