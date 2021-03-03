@@ -1,4 +1,8 @@
 #!/bin/bash
+set -o pipefail
+set -e
+set -u
+
 DIRNAME="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 
 mkdir -p $DIRNAME/output
